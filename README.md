@@ -1,5 +1,5 @@
 # photo gallery horizontal scrolling
-<img width="998" alt="pr" src="https://user-images.githubusercontent.com/82428036/221170155-73d31afb-e44b-41c7-9162-e40c3ffd4f3e.png">
+<img width="998" alt="pr" src="https://github.com/TanyashaVoron/horizontal_scroll_animation/blob/master/imag/pr.png">
 
 ##
 
